@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a0204\\Onedrive\\Documents\\YungChingAPI\\YungChingAPI.csproj": {}
+    "C:\\Users\\a0204\\OneDrive\\Documents\\YungChingAPI\\YungChingAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a0204\\Onedrive\\Documents\\YungChingAPI\\YungChingAPI.csproj": {
+    "C:\\Users\\a0204\\OneDrive\\Documents\\YungChingAPI\\YungChingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a0204\\Onedrive\\Documents\\YungChingAPI\\YungChingAPI.csproj",
+        "projectUniqueName": "C:\\Users\\a0204\\OneDrive\\Documents\\YungChingAPI\\YungChingAPI.csproj",
         "projectName": "YungChingAPI",
-        "projectPath": "C:\\Users\\a0204\\Onedrive\\Documents\\YungChingAPI\\YungChingAPI.csproj",
+        "projectPath": "C:\\Users\\a0204\\OneDrive\\Documents\\YungChingAPI\\YungChingAPI.csproj",
         "packagesPath": "C:\\Users\\a0204\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a0204\\Onedrive\\Documents\\YungChingAPI\\obj\\",
+        "outputPath": "C:\\Users\\a0204\\OneDrive\\Documents\\YungChingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
