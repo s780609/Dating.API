@@ -1,13 +1,12 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace YungChingAPI.Dtos
-{
-    public class UserForRegisterDto
-    {
+namespace DatingApp.API.Dtos {
+    public class UserForRegisterDto {
         [Required]
         public string Username { get; set; }
+
         [Required]
-        [StringLength(8,MinimumLength=4,ErrorMessage="You must enter specify password between 4 and 8 characters")]
-        public string  Password { get; set; }
+        [StringLength (8, MinimumLength = 4, ErrorMessage = "You must enter specify password between 4 and 8 characters")]
+        public string Password { get; set; }
     }
 }

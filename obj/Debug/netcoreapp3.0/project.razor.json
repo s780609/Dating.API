@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\a0204\\OneDrive\\Documents\\YungChingAPI\\YungChingAPI.csproj",
+  "FilePath": "c:\\Users\\a0204\\OneDrive\\Documents\\DatingWeb\\Dating.API\\DatingApp.API.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14341,7 +14341,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "YungChingAPI",
+  "RootNamespace": "DatingApp.API",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

@@ -1,14 +1,11 @@
-
+using DatingApp.API.Models;
 using Microsoft.EntityFrameworkCore;
-using YungChingAPI.Models;
 
-namespace YungChingAPI.Data
-{
-    public class DataContext : DbContext
-    {
-        public DataContext(DbContextOptions<DataContext> options) : base(options){}
+namespace DatingApp.API.Data {
+    public class DataContext : DbContext {
+        public DataContext (DbContextOptions<DataContext> options) : base (options) { }
         public DbSet<Value> Values { get; set; }
-        public DbSet<User> Users { get; set;}
-        
+        public DbSet<User> Users { get; set; }
+
     }
 }
